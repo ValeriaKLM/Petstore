@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Petstore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Petstore/pytest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Petstore/requests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/requests" vcs="Git" />
+  </component>
+</project>
